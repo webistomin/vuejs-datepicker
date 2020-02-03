@@ -272,7 +272,7 @@ export default {
           this.showDayCalendar()
           break
       }
-      
+
       this.$emit('opened')
     },
     /**
